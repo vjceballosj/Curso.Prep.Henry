@@ -18,7 +18,6 @@ const nuevaMultiplicacion = 10 * 4 === 40 ;
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === 1;
 
-
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
 // Asegúrate que usas "return" cuando la consola te lo pida.
@@ -231,7 +230,6 @@ function obtenerAreaRectangulo(alto, ancho) {
   var area = alto * ancho;
   return area;
 }
-
 
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
