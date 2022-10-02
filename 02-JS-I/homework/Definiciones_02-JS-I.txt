@@ -1,0 +1,22 @@
+Variables: En javascript se le conoce como identificadores y sirven para identificar o asignar nombres simbólicos a valores 		en javascript, ejemplo: var nombre = 'Henrry';
+		En el anterior ejemplo asigno un valor --'Henrry'-- 
+		a una variable o identificador que llamé --nombre--
+		y declare que era una variable cuando le antepuse el comando --var--
+		var(tipo) nombre(nombre que el puse o le asigne a la variable) =(asignación de valor) 'Henrry'(Valor que le 		pase a la variable nombre)
+
+Strings: Se le llama así a una cadena de caracteres, normalmente se usa para representar datos textuales o conjunto de 				elementos. Ejemplo: var cadena = {1, 2, 3, 4} //esto es un string con 4 elementos, por ende representa una 			cadena o conjunto de elementos. 
+
+Funciones (argumentos, return): Es un conjutno de instrucciones que llevan a realizar un resultado específico. Normalmente 		deben lleavr una entrada y una salida. ejemplo para sumar 2 números, necesito 2 entradas (el valor de cada 		número), un procedimiento o instrucciones (en este caso es lo que debe hacer la función) y un resultado (o 		salida) que sería la suma en este caso de los 2 números.
+
+Declaraciones if: Sirve para realizar y o condicionar comparaciones entre valores (argumentos) y de acuerdo de si son 		verdaderos o falso realiza una acción o salida. Ejemplo: Si A es letra entonces el resultado es "es 		una letra" y si A no es letra el resultado es "no es una letra" sintaxis: 
+			if(condicion)// ejemplo: if(a === a)
+			{ 
+			return "es una letra" //si se cumple (o es verdadero)
+			}
+			else //si no se cumple
+			{
+			return "no es una letra" //si NO se cumple (o es falso)
+			}
+
+Valores booleanos (true, false): Son valore so resultados de tipo (verdarero(true)) o (falso(false)). Tienen varios empleos 		pero entre los más usados, es de identificar el resultado de los retornos de una comparación. Ejemplo: si 		1===1 // retornara true
+		1===0 // retornara false
