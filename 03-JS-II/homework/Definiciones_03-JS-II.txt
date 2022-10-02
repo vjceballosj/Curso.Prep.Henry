@@ -1,0 +1,3 @@
+for: es un bucle o procedimiento que ejecuta una seria de instrucciones hasta que una condición se cumple. Esas condiciones deben ser estipuladas en el mismo for. sintaxis: for(condición){procedimiento}. Los argumentos de entrada son: una expreción inicial, una condición y una expreción final o de terminación del ciclo o bucle.
+ 
+&&, ||, ! : Son tres tipos de comparación o operadores lógicos de comparación (&& significa Y), el cual es verdadero el resultado si los dos argumentos de entrda se cunmplen. (|| significa O) el cual es verdadero el resultado si alguno de los dos argumentos de entrda se cunmplen. (! significa NO o negación)
